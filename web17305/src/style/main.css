@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.myHeader{
+    background-color: #1A94FF;
+}
+.btnn{
+    background-color: 
+    #0D5CB6;
+    justify-content: space-around;
+}
+.myMain{
+    background-color: #F5F5FA;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color:#1A94FF;
+   
+}
+.img-thumbnail{
+    background-color: #EEEEEE;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.price{
+    background-color: #FAFAFA;
+}
+.sale{
+    border: 1px solid  #FF424E;
+    /* background-color: #FF424E; */
+    margin: 25px;
+    
+}
+.button{
+    width: 300px;
+}
+.table{
+    width: 50%;
+}
+.table th{
+    background-color: 
+    #EFEFEF;
+}
+.img-detail{
+    width: 444px;
+    height: 444px;
+}
+.img-detail-small{
+    width: 64px;
+    height: 64px;
+}
